@@ -27,6 +27,6 @@ public class HellWorld {
   */
 
    public static void main(String[] args) {
-	System.out.println("I have the crippling gay");
+	System.out.println("Please help me jesus");
    }
 }

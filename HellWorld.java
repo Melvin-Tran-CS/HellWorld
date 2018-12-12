@@ -27,6 +27,6 @@ public class HellWorld {
   */
 
    public static void main(String[] args) {
-	System.out.println("I have cripling depression");
+	System.out.println("I have Osteoporosis");
    }
 }
